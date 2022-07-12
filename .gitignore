@@ -1,4 +1,4 @@
 to_hide.txt
-./folder_to_hide/
-./.pytest_cache/
+folder_to_hide/
+.pytest_cache/
 __pycache__/
